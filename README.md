@@ -11,8 +11,9 @@
 ---
 
 ## 🚀 About Me
-Hey there! I'm **Aryan Singh Thakur**, a passionate **Full-Stack Developer** and a creative soul who loves **turning ideas into reality through animated web apps** ⚡.
-I specialize in crafting smooth, responsive, and **visually appealing frontend experiences** using modern tools like **React**, **Next.js**, **GSAP**, and **Tailwind CSS**.
+A passionate **Full-Stack Developer** and a creative soul who loves **turning ideas into reality through animated web apps** ⚡.<br/>
+I specialize in crafting smooth, responsive, and **visually appealing frontend experiences** using modern tools like <br/>
+**React**, **Next.js**, and **Tailwind CSS**.
 
 ---
 
@@ -27,8 +28,12 @@ I specialize in crafting smooth, responsive, and **visually appealing frontend e
 ---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thakurraryan_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-thakur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamaryan721@gmail.com) 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/aryan-singh-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-singh-thakur" height="30" width="40" /></a>
+<a href="https://instagram.com/thakurraryan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakurraryan_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/heyoaryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="heyoaryan" height="30" width="40" /></a>
+</p>
 
 ---
 
