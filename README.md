@@ -1,11 +1,21 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan!;Full-Stack+Web+Developer;Hackathon+Lover+%F0%9F%8E%89;Tech+Explorer+%F0%9F%94%8E;Building+Impactful+Projects+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aryan+Singh+Thakur!;Full-Stack+Web+Developer;Hackathon+Lover+%F0%9F%8E%89;Tech+Explorer+%F0%9F%94%8E;Building+Impactful+Projects+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <!-- GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heyoaryan&label=Profile+Views&color=0e75b6&style=flat" alt="View Counter" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heyoaryan&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
