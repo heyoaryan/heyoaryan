@@ -9,10 +9,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Hackathon+Builder;AI+%26+Cloud+Enthusiast;Building+Impactful+Projects;MERN+%7C+Next.js+%7C+AWS+⚡" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="850"/>
 </p>
 
